@@ -19,4 +19,3 @@ const [total, tax] = taxCalculator({
 console.log('Total: ', total);
 console.log('Tax: ', tax);
 
-// test
